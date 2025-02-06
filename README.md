@@ -2,7 +2,7 @@
 CS, Java, Spring 공부를 하며 블로그 포스팅과 함께 기록하는 공부장입니다.
 <br></br>
 
-## Language Study
+## Backend Study
 ### Java
 - [JVM과 Java가 실행되는 과정](https://blog.naver.com/dkslaus_1015/223706418325)
 - [JVM을 뜯어보자](https://blog.naver.com/dkslaus_1015/223706721372)
