@@ -9,6 +9,7 @@ CS, Java, Spring 공부를 하며 블로그 포스팅과 함께 기록하는 공
 - [Java가 데이터를 대하는 자세](https://blog.naver.com/dkslaus_1015/223709674969)
 - [Java의 자료형과 데이터 타입](https://blog.naver.com/dkslaus_1015/223733116146)
 - [Java의 타입 형변환 및 방법(feat.부동소수점)](https://blog.naver.com/dkslaus_1015/223737296000)
+- [Java에서 배열을 다루는 방법](https://blog.naver.com/dkslaus_1015/223755837675)
 <br></br>
 
 ## CS Study
