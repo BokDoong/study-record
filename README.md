@@ -10,6 +10,7 @@
 4. [Java의 자료형과 데이터 타입](https://blog.naver.com/dkslaus_1015/223733116146)
 5. [Java의 타입 형변환 및 방법(feat.부동소수점)](https://blog.naver.com/dkslaus_1015/223737296000)
 6. [Java에서 배열을 다루는 방법](https://blog.naver.com/dkslaus_1015/223755837675)
+7. [Java의 객체지향(OOP) 문법 파헤치기](https://leejin-dev.notion.site/Java-1cf635979cdd8008b0f5fa7669d1d112?pvs=4)
 ### Spring
 ### JPA
 1. [JPA 연관관계를 한 번 더 고민하기(feat.나만의 연관관계 철칙)](https://leejin-dev.notion.site/JPA-Entity-1c9635979cdd80cf9958f1e8f8369c7c?pvs=4)
