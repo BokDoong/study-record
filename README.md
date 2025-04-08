@@ -4,7 +4,7 @@
 
 ## ✍️ Backend Study
 ### Java
-1. [JVM과 Java가 실행되는 과정](https://blog.naver.com/dkslaus_1015/223706418325)
+1. [JVM과 Java가 실행되는 과정](https://leejin-dev.notion.site/JVM-Java-1ca635979cdd80068f53e0da1c7b24db?pvs=4)
 2. [JVM을 뜯어보자](https://blog.naver.com/dkslaus_1015/223706721372)
 3. [Java가 데이터를 대하는 자세](https://blog.naver.com/dkslaus_1015/223709674969)
 4. [Java의 자료형과 데이터 타입](https://blog.naver.com/dkslaus_1015/223733116146)
