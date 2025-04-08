@@ -6,7 +6,7 @@
 ### Java
 1. [JVM과 Java가 실행되는 과정](https://leejin-dev.notion.site/JVM-Java-1ca635979cdd80068f53e0da1c7b24db?pvs=4)
 2. [JVM을 뜯어보자](https://leejin-dev.notion.site/JVM-1cf635979cdd80bebd34df3e3ee2b46b?pvs=4)
-3. [Java가 데이터를 대하는 자세](https://blog.naver.com/dkslaus_1015/223709674969)
+3. [Java가 데이터를 대하는 자세](https://leejin-dev.notion.site/Java-1cf635979cdd80959be2c5f96775ca1f?pvs=4)
 4. [Java의 자료형과 데이터 타입](https://blog.naver.com/dkslaus_1015/223733116146)
 5. [Java의 타입 형변환 및 방법(feat.부동소수점)](https://blog.naver.com/dkslaus_1015/223737296000)
 6. [Java에서 배열을 다루는 방법](https://blog.naver.com/dkslaus_1015/223755837675)
