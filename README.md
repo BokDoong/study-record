@@ -8,6 +8,7 @@
 7. [Java의 객체지향(OOP) 문법 파헤치기](https://leejin-dev.notion.site/Java-1cf635979cdd8008b0f5fa7669d1d112?pvs=4)
 8. [추상 클래스의 용도 이해하기](https://leejin-dev.notion.site/Abstract-1d0635979cdd80e4a435db40c3f98cc8?pvs=4)
 9. [인터페이스 파헤치기](https://leejin-dev.notion.site/1d2635979cdd8058866ac762a1222cd9?pvs=4)
+10. [추상 클래스와 인터페이스](https://leejin-dev.notion.site/1d3635979cdd80d9b352c78bc0cf8aa4?pvs=4)
 <br></br>
 
 ## Spring
