@@ -11,6 +11,7 @@
 10. [추상 클래스와 인터페이스](https://leejin-dev.notion.site/1d3635979cdd80d9b352c78bc0cf8aa4?pvs=4)
 11. [자바의 업/다운 캐스팅](https://leejin-dev.notion.site/Java-1dc635979cdd802b9f61d06faf48e784?pvs=4)
 12. [Java의 내부 클래스와 내부 클래스는 Static으로 선언하자](https://leejin-dev.notion.site/static-1dc635979cdd8045a94dfa971bdb20d1?pvs=4)
+13. [익명 클래스 사용법과 활용](https://leejin-dev.notion.site/1de635979cdd8061a7b8f7f97ce6cf50?pvs=4)
 <br></br>
 
 ## Spring
