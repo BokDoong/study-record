@@ -15,7 +15,7 @@
 14. [Wrapper 클래스와 (Un)Boxing을 부주의하게 쓰지않기](https://leejin-dev.notion.site/Wrapper-Un-Boxing-1de635979cdd8030ac08c82422b16957?pvs=4)
 15. [Object 클래스와 메서드 오버라이딩](https://leejin-dev.notion.site/Object-1e0635979cdd80559f26e64d363cf0f5?pvs=4)
 16. [Java 에러와 예외 클래스](https://leejin-dev.notion.site/1e4635979cdd80cdbe03ef2bf2683bb6?pvs=4)
-17. 
+17. [예외와 트랜잭션은 아무런 연관이 없다.](https://leejin-dev.notion.site/1e5635979cdd8050a214db6918a9a178?pvs=4)
 <br></br>
 
 ## Spring
