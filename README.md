@@ -33,3 +33,7 @@
 3. [스택과 큐](https://blog.naver.com/dkslaus_1015/223734345076)
 4. [트라이(Trie)](https://blog.naver.com/dkslaus_1015/223726627487)
 <br></br>
+
+## 협업
+1. [스크럼 : 팀의 생산성을 극대화시키는 애자일 방법론](https://leejin-dev.notion.site/1eb635979cdd80c19b82e1eab3bf1449?pvs=4)
+<br></br>
