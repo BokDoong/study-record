@@ -33,6 +33,7 @@
 2. [동적 자료구조(feat.연결 리스트)](https://blog.naver.com/dkslaus_1015/223732195606)
 3. [스택과 큐](https://blog.naver.com/dkslaus_1015/223734345076)
 4. [트라이(Trie)](https://blog.naver.com/dkslaus_1015/223726627487)
+5. [해시 테이블, Java에서 해시테이블과 해시맵](https://leejin-dev.notion.site/Java-1f4635979cdd80ce852fe40ec8e8a52a?pvs=4)
 <br></br>
 
 ## 협업
