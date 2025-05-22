@@ -34,6 +34,7 @@
 3. [스택과 큐](https://blog.naver.com/dkslaus_1015/223734345076)
 4. [트라이(Trie)](https://blog.naver.com/dkslaus_1015/223726627487)
 5. [해시 테이블, Java에서 해시테이블과 해시맵](https://leejin-dev.notion.site/Java-1f4635979cdd80ce852fe40ec8e8a52a?pvs=4)
+6. [캐싱, 다양한 캐싱 전략과 해시맵 + 이중연결리스트를 이용한 LRU 전략 구현](https://leejin-dev.notion.site/LRU-1fb635979cdd80b0a5b0e59a60efe9f6?pvs=4)
 <br></br>
 
 ## 협업
