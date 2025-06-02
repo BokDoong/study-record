@@ -40,3 +40,9 @@
 ## 협업
 1. [스크럼 : 팀의 생산성을 극대화시키는 애자일 방법론](https://leejin-dev.notion.site/1eb635979cdd80c19b82e1eab3bf1449?pvs=4)
 <br></br>
+
+## CS 면접
+1. [프로세스와 스레드](https://leejin-dev.notion.site/203635979cdd80d8a173c8aafbb454b8?source=copy_link)
+2. [부동소수점](https://leejin-dev.notion.site/201635979cdd80558014d15a680b3cc2?source=copy_link)
+3. [10진수와 2진수](https://leejin-dev.notion.site/10-2-2-1ff635979cdd80cea10bd9ed311c8b72?source=copy_link)
+<br></br>
