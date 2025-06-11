@@ -17,11 +17,12 @@
 16. [Java 에러와 예외 클래스](https://leejin-dev.notion.site/1e4635979cdd80cdbe03ef2bf2683bb6?pvs=4)
 17. [예외와 트랜잭션은 아무런 연관이 없다.](https://leejin-dev.notion.site/1e5635979cdd8050a214db6918a9a178?pvs=4)
 18. [Java의 Enum](https://leejin-dev.notion.site/Enum-1e7635979cdd8037a09efb1ac641888e?pvs=4)
-19. [제네릭과 제네릭 메서드](https://leejin-dev.notion.site/1f1635979cdd80f38373e70a6c6a077a?pvs=4)
-20. [배열과 ArrayList](https://leejin-dev.notion.site/20e635979cdd8023bd6ae74da42a7c1f?pvs=73)
+20. [제네릭과 제네릭 메서드](https://leejin-dev.notion.site/1f1635979cdd80f38373e70a6c6a077a?pvs=4)
+21. [배열과 ArrayList](https://leejin-dev.notion.site/20e635979cdd8023bd6ae74da42a7c1f?pvs=73)
 <br></br>
 
 ## Spring
+1. [Java의 리플렉션과 Spring DI/IoC](https://leejin-dev.notion.site/Java-Spring-DI-20f635979cdd806080aeea5ba1e319da?source=copy_link)
 <br></br>
 
 ## JPA
