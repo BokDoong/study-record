@@ -19,6 +19,7 @@
 18. [Java의 Enum](https://leejin-dev.notion.site/Enum-1e7635979cdd8037a09efb1ac641888e?pvs=4)
 20. [제네릭과 제네릭 메서드](https://leejin-dev.notion.site/1f1635979cdd80f38373e70a6c6a077a?pvs=4)
 21. [배열과 ArrayList](https://leejin-dev.notion.site/20e635979cdd8023bd6ae74da42a7c1f?pvs=73)
+22. [동적 프록시](https://sogogi-maratang.atlassian.net/wiki/external/NjNhNThkMTk3OWY1NDVhMmExMzgzZTE3ZTQ4NTE1NDE)
 <br></br>
 
 ## Spring
