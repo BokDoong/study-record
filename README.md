@@ -25,6 +25,7 @@
 
 ## Spring
 1. [Java의 리플렉션과 Spring DI/IoC](https://leejin-dev.notion.site/Java-Spring-DI-20f635979cdd806080aeea5ba1e319da?source=copy_link)
+2. [팩토리 메서드 패턴](https://leejin-dev.notion.site/215635979cdd8043a806d57d653a96c0?source=copy_link)
 <br></br>
 
 ## JPA
