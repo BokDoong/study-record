@@ -19,21 +19,45 @@
 18. [Java의 Enum](https://leejin-dev.notion.site/Enum-1e7635979cdd8037a09efb1ac641888e?pvs=4)
 20. [제네릭과 제네릭 메서드](https://leejin-dev.notion.site/1f1635979cdd80f38373e70a6c6a077a?pvs=4)
 21. [배열과 ArrayList](https://leejin-dev.notion.site/20e635979cdd8023bd6ae74da42a7c1f?pvs=73)
-22. Java의 동적 프록시 : https://drive.google.com/file/d/1n9WWVIdhTvVQks9zr2tt01_i_kmzgRl0/view?usp=sharing
-23. AspectJ vs Spring AOP : https://drive.google.com/file/d/1rP_PDqd5Su3Lj8RNlJWYr9hzu42Z3S2M/view?usp=sharing
+22. [Java의 리플렉션과 Spring DI/IoC](https://leejin-dev.notion.site/Java-Spring-DI-IoC-20f635979cdd806080aeea5ba1e319da?source=copy_link)
+23. [Java의 다이나믹 프록시(Dynamic Proxy), JDK vs CGLIB](https://sogogi-maratang.atlassian.net/wiki/external/NjNhNThkMTk3OWY1NDVhMmExMzgzZTE3ZTQ4NTE1NDE)
+24. [AspectJ vs Spring AOP](https://sogogi-maratang.atlassian.net/wiki/external/MmQ2YmU5M2E3YjAyNDhkMGJjYzliMjRmY2IzNGFiNTc)
 <br></br>
 
 ## Spring
-1. [Java의 리플렉션과 Spring DI/IoC](https://leejin-dev.notion.site/Java-Spring-DI-20f635979cdd806080aeea5ba1e319da?source=copy_link)
-2. [팩토리 메서드 패턴](https://leejin-dev.notion.site/215635979cdd8043a806d57d653a96c0?source=copy_link)
+1. [Spring 디스패쳐 서블릿과 HandlerMapping&HandlerAdapter](https://sogogi-maratang.atlassian.net/wiki/external/YzM4YmZjZTIxZDZiNGQ1M2FiODliOWI1ODc4M2M3MmY)
+2. [Spring AOP와 Request Mapping의 차이](https://sogogi-maratang.atlassian.net/wiki/external/NDZiOWMzNzQxNDQ4NDVkNGE3MjU3OTQ3MGJiMDUzOWU)
+3. [JWT와 리프레쉬 토큰의 보호 방법](https://sogogi-maratang.atlassian.net/wiki/external/MDJjMTYwMWYwNmZjNGMzMWI3M2NiNjEwMTZiZWQ0MDE)
+4. [테스트 전략](https://sogogi-maratang.atlassian.net/wiki/external/MGE1OGUzOGExZTU2NDI4MTliNzU2ZTkzYjgzMTViODg)
+5. [스프링 이벤트와 @DomainEvents](https://sogogi-maratang.atlassian.net/wiki/external/MGU2MTBmNzgyMjY5NDMxYmJhNzQxZmEwOWEyN2VlZDk)
+6. [JPA 연관관계를 한 번 더 고민하기(feat.나만의 연관관계 철칙)](https://leejin-dev.notion.site/JPA-Entity-1c9635979cdd80cf9958f1e8f8369c7c?pvs=4)
 <br></br>
 
-## JPA
-1. [JPA 연관관계를 한 번 더 고민하기(feat.나만의 연관관계 철칙)](https://leejin-dev.notion.site/JPA-Entity-1c9635979cdd80cf9958f1e8f8369c7c?pvs=4)
+## Backend
+1. [CloudWatch로 로그 보내는 원리](https://sogogi-maratang.atlassian.net/wiki/external/OGFkNWVhOWU0YjgwNDJlOTg0NzYyNmMyMDgyYmZmM2I)
+2. [소프트딜리트](https://sogogi-maratang.atlassian.net/wiki/external/ZjJmYTYxOTdlNTc2NDA2YWEwYTZkZGY0OWI0Y2Q0MjE)
+3. [동시성, 데이터가 꼬이기 전에 잡아야한다.](https://sogogi-maratang.atlassian.net/wiki/external/MzdiMmM0ZjgyMTcyNDJmZGJiNDhhYmE4MmI2OGEwZjY)
+4. [자주 쓰이는 서버 구조와 패턴](https://sogogi-maratang.atlassian.net/wiki/external/MTJjM2I3ZWVhNDRiNDdmMjg3NGZhMzRlNWQ4NWNiY2E)
+<br></br>
+
+## 시스템 디자인
+1. [URL 단축시스템](https://sogogi-maratang.atlassian.net/wiki/external/MTM2MTdmMzhhMzk0NDJhZjgyZDBjYjIyYjhmODRmZGI)
+2. [채팅 시스템](https://sogogi-maratang.atlassian.net/wiki/external/MGM5NjE2ZmJkMDk5NDcwYTg3NzQ2MWI1OGEzNDUyYzc)
+3. [처리율 제한장치 시스템](https://sogogi-maratang.atlassian.net/wiki/external/OTIyODBkNmI5MGNlNGQ0MjljMTczNmZmMzQ3MzE2ODQ)
+4. [톰캣과 네티](https://sogogi-maratang.atlassian.net/wiki/external/MTk4ZTMzMzljYmY5NDVkM2E4OGZiZjcxZjI2OWVhNGY)
+<br></br>
+
+## 디자인패턴
+1. [브릿지 패턴](https://sogogi-maratang.atlassian.net/wiki/external/MGVmMjAzZjc2MjE0NDYxZDkxMTllOGM2YzE3ZTYxN2I)
+2. [싱글톤 패턴](https://sogogi-maratang.atlassian.net/wiki/external/M2QxM2I0N2RiMWE4NDlhZTgxZTk3NDExZGIzOTFiMTQ)
+3. [어댑터 패턴](https://sogogi-maratang.atlassian.net/wiki/external/M2EzMjhhY2VmYjFhNDYxNWFkYzFlNmY0NGRjNGEzMzc)
+4. [Composite Pattern](https://sogogi-maratang.atlassian.net/wiki/external/NjcwYjNkYzUzMWVhNDFjOGJiYjEwZmNhOGI0NGNiNmU)
+5. [Chain of Responsibility](https://sogogi-maratang.atlassian.net/wiki/external/NmNlYzZlNjg4M2ZiNDQ4OThlNmE5MzM0NDc3NDllZDA)
+6. [Mediator 패턴](https://sogogi-maratang.atlassian.net/wiki/external/YTg1YTAyM2Y5ZTJkNGNlNTlhZjJkZmFmMTE5NWQ2ZGE)
+7. [State 패턴](https://sogogi-maratang.atlassian.net/wiki/external/NjNiZGQ1ZDc4NzIyNGI4ZmFiMWZmY2I3OWIzYjkxZGU)
 <br></br>
 
 ## 자료구조
-["읽고나면 진짜 쉬워지는 자료구조"](https://product.kyobobook.co.kr/detail/S000212705529) 책을 바탕으로 공부한 기록입니다.
 1. [이진 탐색](https://blog.naver.com/dkslaus_1015/223712542382)
 2. [동적 자료구조(feat.연결 리스트)](https://blog.naver.com/dkslaus_1015/223732195606)
 3. [스택과 큐](https://blog.naver.com/dkslaus_1015/223734345076)
