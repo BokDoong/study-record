@@ -1,3 +1,6 @@
+## DB
+1. [MVCC와 READ VIEW](https://leejin-dev.notion.site/MVCC-2d2635979cdd80e3b1acc7a46945c7f2?source=copy_link)
+
 ## Java
 1. [JVM과 Java가 실행되는 과정](https://leejin-dev.notion.site/JVM-Java-1ca635979cdd80068f53e0da1c7b24db?pvs=4)
 2. [JVM을 뜯어보자](https://leejin-dev.notion.site/JVM-1cf635979cdd80bebd34df3e3ee2b46b?pvs=4)
