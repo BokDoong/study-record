@@ -1,10 +1,16 @@
 package com.study.inflearn.toby.chapter1;
 
+@Configuration
 public class UserDaoFactory {
 
-    public static UserDao createUserDao() {
-        DBConnector H2DBConnector = new H2DBConnector();
-        return new UserDao(H2DBConnector);
+    @Bean
+    public UserDao userDao() {
+        return new UserDao(dbConnector());
+    }
+
+    @Bean
+    public DBConnector dbConnector() {
+        return new H2DBConnector();
     }
 
 }
