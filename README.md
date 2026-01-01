@@ -1,5 +1,6 @@
 ## DB
 1. [MVCC와 READ VIEW](https://leejin-dev.notion.site/MVCC-2d2635979cdd80e3b1acc7a46945c7f2?source=copy_link)
+2. [트랜잭션과 격리 수준](https://leejin-dev.notion.site/2db635979cdd809cb8d8f95fee5aa3a1?source=copy_link)
 <br></br>
 
 ## Java
