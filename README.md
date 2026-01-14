@@ -4,6 +4,9 @@
 3. [MySQL의 잠금과 S/X락](https://leejin-dev.notion.site/2e4635979cdd80678d29d4e1dd7730ea?source=copy_link)
 <br></br>
 
+## Java
+1. [Java Garbage Collection](https://leejin-dev.notion.site/Java-Garbage-Collection-2e7635979cdd80079bc6ed9236b1ae0c?source=copy_link)
+
 ## Backend
 1. [동시성, 데이터가 꼬이기 전에 잡아야한다.](https://sogogi-maratang.atlassian.net/wiki/external/MzdiMmM0ZjgyMTcyNDJmZGJiNDhhYmE4MmI2OGEwZjY)
 2. [자주 쓰이는 서버 구조와 패턴](https://sogogi-maratang.atlassian.net/wiki/external/MTJjM2I3ZWVhNDRiNDdmMjg3NGZhMzRlNWQ4NWNiY2E)
