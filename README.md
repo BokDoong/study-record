@@ -7,6 +7,10 @@
 
 ## Java
 1. [Java Garbage Collection](https://leejin-dev.notion.site/Java-Garbage-Collection-2e7635979cdd80079bc6ed9236b1ae0c?source=copy_link)
+2. [JVM이 코드를 컴파일하고 실행하는 법](https://leejin-dev.notion.site/JVM-Java-1ca635979cdd80068f53e0da1c7b24db?source=copy_link)
+3. [JVM을 뜯어보자](https://leejin-dev.notion.site/JVM-1cf635979cdd80bebd34df3e3ee2b46b?source=copy_link)
+4. [Java의 리플렉션](https://leejin-dev.notion.site/Java-Spring-DI-IoC-20f635979cdd806080aeea5ba1e319da?source=copy_link)
+5. [Java의 동적 프록시](https://leejin-dev.notion.site/Java-Dynamic-Proxy-JDK-vs-CGLIB-210635979cdd800cb418fba3d569057d?source=copy_link)
 <br></br>
 
 ## Backend
