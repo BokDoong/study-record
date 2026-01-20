@@ -23,9 +23,6 @@
 7. [테스트 전략](https://sogogi-maratang.atlassian.net/wiki/external/MGE1OGUzOGExZTU2NDI4MTliNzU2ZTkzYjgzMTViODg)
 8. [스프링 이벤트와 @DomainEvents](https://sogogi-maratang.atlassian.net/wiki/external/MGU2MTBmNzgyMjY5NDMxYmJhNzQxZmEwOWEyN2VlZDk)
 9. [JPA 연관관계를 한 번 더 고민하기(feat.나만의 연관관계 철칙)](https://leejin-dev.notion.site/JPA-Entity-1c9635979cdd80cf9958f1e8f8369c7c?pvs=4)
-10. [Java의 리플렉션과 Spring DI/IoC](https://leejin-dev.notion.site/Java-Spring-DI-IoC-20f635979cdd806080aeea5ba1e319da?source=copy_link)
-11. [Java의 다이나믹 프록시(Dynamic Proxy), JDK vs CGLIB](https://sogogi-maratang.atlassian.net/wiki/external/NjNhNThkMTk3OWY1NDVhMmExMzgzZTE3ZTQ4NTE1NDE)
-12. [AspectJ vs Spring AOP](https://sogogi-maratang.atlassian.net/wiki/external/MmQ2YmU5M2E3YjAyNDhkMGJjYzliMjRmY2IzNGFiNTc)
 <br></br>
 
 ## 디자인패턴
