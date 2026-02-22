@@ -3,7 +3,8 @@
 2. [트랜잭션과 격리 수준](https://leejin-dev.notion.site/2db635979cdd809cb8d8f95fee5aa3a1?source=copy_link)
 3. [MySQL의 잠금과 S/X락](https://leejin-dev.notion.site/2e4635979cdd80678d29d4e1dd7730ea?source=copy_link)
 4. [인덱스](https://leejin-dev.notion.site/2de635979cdd80a796b1c19e1bd6999d?source=copy_link)
-5. [옵티마이저](https://leejin-dev.notion.site/2f6635979cdd8033a0a0cd177494d02e?source=copy_link)
+5. [옵티마이저의 실행 계획과 쿼리별 원리](https://leejin-dev.notion.site/2f6635979cdd8033a0a0cd177494d02e?source=copy_link)
+6. [JOIN에 대해](https://www.notion.so/leejin-dev/JOIN-308635979cdd8007a2dfdffbe7eed826)
 <br></br>
 
 ## Java
